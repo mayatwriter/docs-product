@@ -70,7 +70,7 @@ In the same pane (**User Settings**), make sure the following settings are defin
 
 ### Visual Studio 2017 (with Markdown Editor extension)
 
-If you already use Visual Studio, you can install the [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor) extension and keep using the same IDE for editing Markdown documents.
+If you already use Visual Studio, you can instal the [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor) extension and keep using the same IDE for editing Markdown documents.
 
 #### Settings
 
